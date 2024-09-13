@@ -1,4 +1,4 @@
-from LogisticRegression import *
+from LogisticRegression import LogisticRegression
 import numpy as np
 import pandas as pd
 
