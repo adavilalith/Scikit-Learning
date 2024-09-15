@@ -1,4 +1,4 @@
-from LogisticRegression import LogisticRegression
+from sklearning.classification import LogisticRegression
 import numpy as np
 import pandas as pd
 
