@@ -5,6 +5,7 @@ import pandas as pd
 model = LogisticRegression()
 
 data = pd.read_csv("./datasets/Iris.csv")
+data = data.sample(frac=1).reset_index(drop=True)
 data["Species"] = data["Species"].apply(lambda x: 1 if x=="Iris-setosa" else 0)
 data = data.drop(["Id"],axis=1)
 x = data.drop(["Species"],axis=1) #input data

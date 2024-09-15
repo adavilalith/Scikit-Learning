@@ -1,1 +1,2 @@
 from .LogisticRegression import LogisticRegression 
+from .SGDHingeClassifier import SGDHingeClassifier
