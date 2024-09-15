@@ -8,8 +8,8 @@ In this repository, we’re going to take a hands-on approach to machine learnin
 
 ## Roadmap
 
-- [ ] <span style="color: #e76f51;"><strong>Linear Regression</strong></span> 
-- [ ] <span style="color: #f1faee;"><strong>Logistic Regression</strong></span> 
+- [X] <span style="color: #e76f51;"><strong>Linear Regression</strong></span> 
+- [X] <span style="color: #f1faee;"><strong>Logistic Regression</strong></span> 
 - [ ] <span style="color: #2a9d8f;"><strong>Decision Trees</strong></span> 
 - [ ] <span style="color: #264653;"><strong>Support Vector Machines (SVM)</strong></span> ⚔️
 - [ ] <span style="color: #f4a261;"><strong>K-Nearest Neighbors (KNN)</strong></span> 🏘️
