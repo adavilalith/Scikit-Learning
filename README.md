@@ -8,13 +8,24 @@ In this repository, we’re going to take a hands-on approach to machine learnin
 
 ## Roadmap
 
+### Machine Learning Algorithms
+
 - [X] <span style="color: #e76f51;"><strong>Linear Regression</strong></span> 
+- [X] <span style="color: #a6b951;"><strong>Stochastic Gradient Descent classification (hinge) </strong></span> 
 - [X] <span style="color: #f1faee;"><strong>Logistic Regression</strong></span> 
 - [ ] <span style="color: #2a9d8f;"><strong>Decision Trees</strong></span> 
-- [ ] <span style="color: #264653;"><strong>Support Vector Machines (SVM)</strong></span> ⚔️
+- [ ] <span style="color: #e153d1;"><strong>Support Vector Machines (SVM)</strong></span> ⚔️
 - [ ] <span style="color: #f4a261;"><strong>K-Nearest Neighbors (KNN)</strong></span> 🏘️
-- [ ] <span style="color: #2a9d8f;"><strong>K-Means Clustering</strong></span> 
-- [ ] <span style="color: #e76f51;"><strong>Neural Networks</strong></span> 
+- [ ] <span style="color: #37e66b;"><strong>K-Means Clustering</strong></span> 
+
+
+### Data Science Tools
+
+- [X] <span style="color: #e76f51;"><strong>Label Encoder</strong></span> 
+- [X] <span style="color: #a4036b;"><strong>One-Hot Encoder</strong></span> 
+- [X] <span style="color: #37e66b;"><strong>Standard Scaler</strong></span> 
+- [ ] <span style="color: #9339d6;"><strong>MinMaxScaler</strong></span>
+- [ ] <span style="color: #d2782e;"><strong>Pincipal Component Analysis</strong></span>
 
 ## Tools & Technologies
 
